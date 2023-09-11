@@ -7,7 +7,7 @@
 
 - 🌍  I'm based in **Milton Keynes, UK**
 - 🚀  I'm currently working on **[building more web dev projects](https://www.theodinproject.com/)**
-- 🧠  I'm learning **C, C++, Kotlin, React, JavaScript, TypeScript**
+- 🧠  I'm learning **Kotlin, React, JavaScript, TypeScript**
 - 🤝  I'm open to collaborating on **anything web-dev related**
 
 ## Languages + Tools
