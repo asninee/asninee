@@ -1,4 +1,4 @@
-# Hi there, I'm Ashraf!👋
+# Hi there, I'm Ashraf!
 
 <img align="left" src="https://github.com/nine96as/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/nine96as/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
