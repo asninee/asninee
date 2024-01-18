@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=nine96as&width=738&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=nine96as&width=738&height=200)](https://github.com/Akshay090/svg-banners)
 
 ---
 
