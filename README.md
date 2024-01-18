@@ -1,4 +1,6 @@
-# Hi there, I'm Ashraf!
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=nine96as&width=738&height=400)](https://github.com/Akshay090/svg-banners)
+
+---
 
 <img align="left" src="https://github.com/nine96as/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/nine96as/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
