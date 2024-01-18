@@ -11,7 +11,7 @@
 
 ## Languages + Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,tailwindcss,ts,php,kotlin,mongodb,mysql,postgresql,prisma,nodejs,laravel,docker,express,flask,jest,react,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,tailwindcss,ts,php,kotlin,mongodb,mysql,postgresql,prisma,nodejs,laravel,docker,express,flask,jest,react,vite&perline=7)](https://skillicons.dev)
 
 ## Support Me
 
