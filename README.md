@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://github.com/nine96as/github-stats-transparent/blob/output/generated/overview.svg" />
+<img align="left" src="https://github.com/nine96as/github-stats-transparent/blob/output/generated/overview.svg" />
 
 <img src="https://github.com/nine96as/github-stats-transparent/blob/output/generated/languages.svg" />
 
