@@ -1,17 +1,47 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=nine96as&width=738&height=200)](https://github.com/Akshay090/svg-banners)
+<pre>
+  
+  
+    <strong>▶︎ cat README.md</strong>                                                    
+                                                                      
+                                                                            
+                .:                      .: .::      .::                     
+      .:: .::     .:: .::     .::     .::    .::   .::        .::     .:::: 
+       .::  .::.:: .::  .:: .:   .:: .:      .::  .::       .::  .:: .::    
+       .::  .::.:: .::  .::.::::: .::  .:  .::  .:   .::   .::   .::   .::: 
+       .::  .::.:: .::  .::.:             .::   .::    .:: .::   .::     .::
+      .:::  .::.::.:::  .::  .::::      .::       .:: .::    .:: .:::.:: .::
+                                                                      
+                                                                      
+      user        -  nine96as
+  
+      languages   -  [py, java, html, css, ts, php, kt, sql, html, css]
+      tools       -  [tailwindcss, mongodb, prisma, nodejs, laravel, docker, express, flask, jest, react, vite]
+      learning    -  [react, nextjs, astro]
+      building    -  fullstack apps
+  
+      os          -  macOS
+      terminal    -  warpterminal
+      shells      -  [fish, zsh]
+  
+      uptime      -  21y
 
----
+  
+</pre>
 
-<img align="left" src="https://github.com/nine96as/github-stats-transparent/blob/output/generated/overview.svg" />
+<br/>
 
-<img src="https://github.com/nine96as/github-stats-transparent/blob/output/generated/languages.svg" />
+<details>
+  <summary><b>&nbsp;stats&nbsp;</b></summary>
+  <br/>
+  <img align="left" src="https://github.com/nine96as/github-stats-transparent/blob/output/generated/overview.svg" />
 
-## info
+  <img src="https://github.com/nine96as/github-stats-transparent/blob/output/generated/languages.svg" />
+</details>
 
-- 🚀  I'm currently working on **[building more web-dev projects](https://www.theodinproject.com/)**
-- 🧠  I'm learning **React, Astro**
-- 🤝  I'm open to collaborating on **anything web-dev related**
-
-## languages + tools
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,tailwindcss,ts,php,kotlin,mongodb,mysql,postgresql,prisma,nodejs,laravel,docker,express,flask,jest,react,vite&perline=7)](https://skillicons.dev)
+<details>
+  <summary><b>&nbsp;tools&nbsp;</b></summary>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,tailwindcss,ts,php,kotlin,mongodb,mysql,postgresql,prisma,nodejs,laravel,docker,express,flask,jest,react,vite&perline=7" />
+  </a>
+</details>
