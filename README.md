@@ -1,29 +1,29 @@
 <pre>
   
   
-    <strong>▶︎ cat README.md</strong>                                                    
-                                                                      
-                                                                            
-                .:                      .: .::      .::                     
-      .:: .::     .:: .::     .::     .::    .::   .::        .::     .:::: 
-       .::  .::.:: .::  .:: .:   .:: .:      .::  .::       .::  .:: .::    
-       .::  .::.:: .::  .::.::::: .::  .:  .::  .:   .::   .::   .::   .::: 
-       .::  .::.:: .::  .::.:             .::   .::    .:: .::   .::     .::
-      .:::  .::.::.:::  .::  .::::      .::       .:: .::    .:: .:::.:: .::
-                                                                      
-                                                                      
-      user        -  nine96as
-  
-      languages   -  [py, java, html, css, ts, php, kt, sql, html, css]
-      tools       -  [tailwindcss, mongodb, prisma, nodejs, laravel, docker, express, flask, jest, react, vite]
-      learning    -  [react, nextjs, astro]
-      building    -  fullstack apps
-  
-      os          -  macOS
-      terminal    -  warpterminal
-      shells      -  [fish, zsh]
-  
-      uptime      -  21y
+  <strong>▶︎ cat README.md</strong>                                                    
+                                                                    
+                                                                          
+              .:                      .: .::      .::                     
+    .:: .::     .:: .::     .::     .::    .::   .::        .::     .:::: 
+     .::  .::.:: .::  .:: .:   .:: .:      .::  .::       .::  .:: .::    
+     .::  .::.:: .::  .::.::::: .::  .:  .::  .:   .::   .::   .::   .::: 
+     .::  .::.:: .::  .::.:             .::   .::    .:: .::   .::     .::
+    .:::  .::.::.:::  .::  .::::      .::       .:: .::    .:: .:::.:: .::
+                                                                    
+                                                                    
+    user        -  nine96as
+
+    languages   -  [py, java, html, css, ts, php, kt, sql, html, css]
+    tools       -  [tailwindcss, mongodb, prisma, nodejs, laravel, docker, express, flask, jest, react, vite]
+    learning    -  [react, nextjs, astro]
+    building    -  fullstack apps
+
+    os          -  macOS
+    terminal    -  warpterminal
+    shells      -  [fish, zsh]
+
+    uptime      -  21y
 
   
 </pre>
