@@ -1,7 +1,7 @@
 <pre>
   
   
-  <strong>▶︎ cat README.md</strong>                                                    
+  <strong>➤ cat README.md</strong>                                                    
                                                                     
                                                                           
               .:                      .: .::      .::                     
