@@ -42,6 +42,6 @@
   <summary><b>&nbsp;tools&nbsp;</b></summary>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,tailwindcss,ts,php,kotlin,mongodb,mysql,postgresql,prisma,nodejs,laravel,docker,express,flask,jest,react,vite&perline=7" />
+    <img src="https://skillicons.dev/icons?i=tailwindcss,mongodb,mysql,postgresql,prisma,docker,express,flask,jest,react,vite&perline=7" />
   </a>
 </details>
