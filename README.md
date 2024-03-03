@@ -14,7 +14,7 @@
                                                                     
     user        -  nine96as
 
-    languages   -  [py, java, html, css, ts, php, kt, sql, html, css]
+    languages   -  [py, java, html, css, js, ts, php, kt, sql, html, css]
     tools       -  [tailwindcss, mongodb, prisma, nodejs, laravel, docker, express, flask, jest, react, vite]
     learning    -  [react, nextjs, astro]
     building    -  fullstack apps
