@@ -12,18 +12,18 @@
     .:::  .::.::.:::  .::  .::::      .::       .:: .::    .:: .:::.:: .::
                                                                     
                                                                     
-    user        -  nine96as
+    user        -  asnine
 
     languages   -  [py, java, html, css, js, ts, php, kt, sql, html, css]
-    tools       -  [tailwindcss, mongodb, prisma, nodejs, laravel, docker, express, flask, jest, react, vite]
-    learning    -  [react, nextjs, astro]
+    tools       -  [tailwindcss, mongodb, prisma, nodejs, laravel, docker, express, flask, jest, react, vite, astro]
+    learning    -  [react, nextjs, c#]
     building    -  fullstack apps
 
     os          -  macOS
     terminal    -  warpterminal
     shells      -  [fish, zsh]
 
-    uptime      -  21y
+    uptime      -  22y
 
   
 </pre>
