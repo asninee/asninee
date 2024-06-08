@@ -21,7 +21,7 @@
     building    -  fullstack apps
 
     os          -  macOS
-    terminal    -  warpterminal
+    terminal    -  rio
     shells      -  [fish, zsh]
 
     uptime      -  22y
