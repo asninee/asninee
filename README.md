@@ -16,12 +16,12 @@
     user        -  asnine
 
     languages   -  [py, java, html, css, js, ts, php, kt, sql, html, css]
-    tools       -  [tailwindcss, mongodb, prisma, nodejs, laravel, docker, express, flask, jest, react, vite, astro]
+    tools       -  [tailwindcss, mongodb, prisma, nodejs, laravel, docker, express, flask, jest, react, vite, astro, angular]
     learning    -  [react, nextjs, c#]
     building    -  fullstack apps
 
     os          -  macOS
-    terminal    -  rio
+    terminal    -  ghostty
     shells      -  [fish, zsh]
 
     uptime      -  22y
