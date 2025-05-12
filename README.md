@@ -24,7 +24,7 @@
     terminal    -  ghostty
     shells      -  [fish, zsh]
 
-    uptime      -  22y
+    uptime      -  23y
 
   
 </pre>
