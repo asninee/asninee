@@ -16,7 +16,6 @@
     user        -  asnine
 
     languages   -  [py, java, html, css, js, ts, php, kt, sql, html, css]
-    tools       -  [tailwindcss, mongodb, prisma, nodejs, laravel, docker, express, flask, jest, react, vite, astro, angular, chakra]
     learning    -  [react, nextjs, c#, go]
     building    -  fullstack apps
 
@@ -43,6 +42,6 @@
   <summary><b>&nbsp;tools&nbsp;</b></summary>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwindcss,mongodb,mysql,postgresql,prisma,docker,express,flask,jest,react,vite" />
+    <img src="https://skillicons.dev/icons?i=tailwind,mongodb,mysql,postgresql,prisma,docker,express,flask,jest,react,vite,astro,angular,bun,cloudflare,webpack,vscode,vercel,nodejs,laravel,githubactions" />
   </a>
 </details>
