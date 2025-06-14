@@ -16,8 +16,8 @@
     user        -  asnine
 
     languages   -  [py, java, html, css, js, ts, php, kt, sql, html, css]
-    tools       -  [tailwindcss, mongodb, prisma, nodejs, laravel, docker, express, flask, jest, react, vite, astro, angular]
-    learning    -  [react, nextjs, c#]
+    tools       -  [tailwindcss, mongodb, prisma, nodejs, laravel, docker, express, flask, jest, react, vite, astro, angular, chakra]
+    learning    -  [react, nextjs, c#, go]
     building    -  fullstack apps
 
     os          -  macOS
